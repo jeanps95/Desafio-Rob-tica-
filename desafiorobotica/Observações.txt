@@ -1,0 +1,5 @@
+O código foi comentado em inglês;
+A movimentação do robô segue a técnica da mão direita;
+Acessórios ao robô foram adicionados. Foram 4 sensores ultrasônicos de proximidade e 8 sensores de visão;
+Para identificar o bloco pelos sensores de visão foi utilizado um filtro chamado Blob Detection após a imagem ser trabalhada por um filtro de seleção de iluminação;
+O robô consegue chegar ao objetivo em aproximadamente 3 minutos.
